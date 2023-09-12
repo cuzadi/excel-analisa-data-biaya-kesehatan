@@ -15,3 +15,5 @@ Analisa data harus diarahkan untuk menjawab beberapa pertanyaan penting sebagai 
 3. Adakah kebiasaan merokok mempengaruhi biaya perawatan kesehatan? Dan jika memang berpengaruh seperti apakah kebiasaan merokok mempengaruhi biaya perawatan kesehatan?
 
 Analisa data dilakukan dengan menggunakan excel dan google data studio.
+
+Link google data studio untuk analisa secara grafis dan tabulasi adalah: https://lookerstudio.google.com/s/gGVJ8Cvky8Y 
